@@ -1,14 +1,16 @@
+<div align="center">
+
 # ⚽ Agente RAG para Regras do Futebol
 
-<p align="center">
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+](https://img.shields.io/badge/LangChain-LCEL-green?-badge
+![Ollama](https://img.shields.io/badge/Ollama-Qwen2.5%201.5B-black?the-badge
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Storee=for-the-badge
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-red?style=-badge
 
-![Python](https://img.shields.io/badge13-blue?style=for-the-badge&logo=python
+Projeto desenvolvido para estudos de LangChain, Ollama, ChromaDB e RAG.
 
-![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=for-the-badge)
-
-s://img.shields.io/badge/Ollama-Local%20LLM-black?style=for-the-badge)
-
-(https://img.shields.io/badge/ChromaDB-Vector%20Database-orange?style=for-thecense](https://img.shields.io/badge/License-MIT-purple?style=for-the>
+</div>
 
 ---
 
